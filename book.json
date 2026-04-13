@@ -5,5 +5,8 @@
   "language": "zh-hans",
   "gitbook": ">=3.2.3",
   "root": ".",
-  "plugins": ["-sharing"]
+  "plugins": ["-sharing"],
+  "styles": {
+    "website": "styles/website.css"
+  }
 }
