@@ -5,7 +5,10 @@
   "language": "zh-hans",
   "gitbook": ">=3.2.3",
   "root": ".",
-  "plugins": ["-sharing"],
+  "plugins": ["-sharing", "custom-favicon"],
+  "pluginsConfig": {
+    "favicon": "assets/favicon.ico"
+  },
   "styles": {
     "website": "styles/website.css"
   }
