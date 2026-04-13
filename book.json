@@ -1,0 +1,8 @@
+{
+  "title": "稚雪的学习笔记",
+  "description": "这是一本关于代码学习的笔记本，此刻它们如此可爱。",
+  "author": "Chino Koyuki",
+  "language": "zh-hans",
+  "gitbook": ">=3.2.3",
+  "root": "."
+}
